@@ -31,6 +31,7 @@ Git:
 6. What is the difference between HEAD and checkout in git
 7. Have you configured github repository locally
 
+
 Jenkins: 
 
 1. How to upload the .json file in jenkins
@@ -106,6 +107,10 @@ Ansible:
 
 1. Have you worked on ansible
 2. Which Scripting used in Ansible
+3. How do you secure your environment in ansible
+4. How do you skip a task in ansible
+5. Which file is used for your default configuration in ansible?
+6. What are ansible best practices?
 
 Docker:
 
@@ -141,3 +146,4 @@ free, free -m
 13. what is nginx
 
 10. How containers will get volumes
+20202020202020202020200202020202022222222
