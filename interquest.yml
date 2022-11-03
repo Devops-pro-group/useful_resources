@@ -65,7 +65,22 @@ Jenkins:
 27. How set maven deployment path
 28. How to define no of executors in Jenkins
 
-AWS:
+#############################################################################
+###############          AWS
+#############################################################################
+
+What is your experience with Aws?:
+R: I have experience on aws deploying a wordpress website that involve many aws service such as 
+   Vpc with public and private subnet, security group, ec2 instance, Rds, EFS  and others
+  - so i have been able to create a wordpress website that will be hosted in ec2
+  - i have connected it with amazon RDS database
+  - I have made it publicly accessible over the internet
+
+  I have built a serverless web application on AWS using a bunch aws service like aws lambda,
+    api-gateway, aws amplified. In that project our goal was to build and run an application 
+    without have to manage infrastructure. That helps my company to reduce time to provision and maintaining
+     infrastructure for our application.
+
 
 1.   How to increase the root volume size of your ec2 instance.
 # EBS volume can be expanded using Amazon EC2 console or AWS CLI 
@@ -148,4 +163,71 @@ free, free -m
 13. what is nginx
 
 10. How containers will get volumes
-20202020202020202020200202020202022222222
+
+######################################################################
+##############       Terraform
+######################################################################
+
+#1. What is terraform?
+
+ Terraform is a popular open source Infrastructure as Code (IAC) tool that automates provisioning of your infrastructure 
+ in the cloud and manages the full lifecycle of all deployed resources, which are defined in source code. Its resource-managing 
+ behavior is predictable and reproducible, so you can plan the actions in advance and reuse your code configurations for similar
+ infrastructure. It  facilitates the process of creating and deploying reusable and scalable infrastructure architectures.
+ it helps to have a control over complete orchestration much like puppet and ansible.
+
+#2. Why is terraform is used for Devops?
+
+  - It can do complete orchestration and not just configuration management
+  - It support of almost all the popular cloud providers like aws, azure, Gcp.
+  - Easily manages the configuration of an immutable (dynamic) infrastructure
+  - provide immutable infrastructure were configuration changes smoothly
+  - works on HCL, which is a very easy to learn and understand
+  - easily portable from one provider to another
+  - easy installation 
+
+#3. What is terraform init?
+
+  terrafrom initializes the code using terraform init. It is ysed to initializethe working directory
+  containing terraform configuration file. The command will install plugins, install child modules and backend 
+  initialization
+
+#4. How does terraform works?
+
+  terraform has a lifecycle to create resource 
+   - terraform init : used to create an operational directory
+   - terraform plan : implements an execution plan
+   - terraform apply : ensures that the plan is set in motion in the time-frame
+   - terraform destroy : used to eliminate all the applied resources  
+   
+
+#5. define null resource in terraform
+
+  null_resource implements standard resource library. But no futher action is taken.
+  The triggers argument allows an arbitrary set of values that will cause the replacement of resources when changed.
+
+#6. How to check the install version of terraform ?
+
+To check the version do 
+terraform --version
+
+#7. What is a provider in terraform? Enlist some terraform providers
+
+  Terraform provider is responsible for understanding API interactions and exposing resources.
+  Providers generally are an Iaas (aws,gcp, azure), or Saas services (terraform cloud, cloudfare),
+  Paas (heroku).
+
+#8. What  is a modules in terraform?
+
+  A module is a container for several resources that are used together. The root module is compulsory
+  for every terraform that includes resources mentioned  in the tf files.
+
+#9. what is the remote backend in terraform?
+
+
+
+
+
+
+
+
