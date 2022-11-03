@@ -67,6 +67,8 @@ Jenkins:
 AWS:
 
 1.   How to increase the root volume size of your ec2 instance.
+# EBS volume can be expanded using Amazon EC2 console or AWS CLI 
+# by default and can be extended up to 2 TB
 2.   How to increase the root volume of your ec2 instance without changing instance ip address
 3.   How to scale instances timings base using autoscaling
 4.   How to configure ELB in AWS
