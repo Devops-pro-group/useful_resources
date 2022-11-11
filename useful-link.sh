@@ -40,3 +40,6 @@ https://devopscube.com/list-of-devops-blogs-and-resources/
 https://www.interviewbit.com/sql-interview-questions?utm_source=midfunnel&utm_medium=email&utm_campaign=none_scaler_academy_midfunnel_email_newsletter_india_all/
 
 https://tanzu.vmware.com/content/blog/beyond-the-twelve-factor-app
+
+## AWS Lambda/Serverless Basics | Tutorial to Create Your First Lambda Function | AWS for Beginners
+https://www.youtube.com/watch?v=3Ar1ABlD_Vs
