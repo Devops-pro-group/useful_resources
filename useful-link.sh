@@ -43,3 +43,6 @@ https://tanzu.vmware.com/content/blog/beyond-the-twelve-factor-app
 
 ## AWS Lambda/Serverless Basics | Tutorial to Create Your First Lambda Function | AWS for Beginners
 https://www.youtube.com/watch?v=3Ar1ABlD_Vs
+
+## Python Tutorial: Full Course for Beginners
+https://www.youtube.com/watch?v=XKHEtdqhLK8
