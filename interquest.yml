@@ -25,10 +25,27 @@ Git:
 
 1. what is the difference between git pull and git clone
 2. what is the difference between git pull and git fetch
-3. what is staging area in git.
-4. what is git stash
-5. what is reset in git
-6. What is the difference between HEAD and checkout in git
+
+3. what is staging area in git. :
+
+R- These files are also referred to as "untracked files." Staging area is files that are going to be a part of the next commit, 
+   which lets git know what changes in the file are going to occur for the next commit. The repository contains all of a project's commits.
+   
+4. what is git stash? :
+
+R- The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts
+   them from your working copy. It is used to back up 
+
+5. what is reset in git? :
+
+R- It is used to reset git or go back to your working area
+
+6. What is the difference between HEAD and checkout in git :
+
+R- Remember that the HEAD is Git's way of referring to the current snapshot. Internally, the git checkout command simply 
+   updates the HEAD to point to either the specified branch or commit. When it points to a branch, Git doesn't complain,
+   but when you check out a commit, it switches into a “detached HEAD” state.
+
 7. Have you configured github repository locally
 
 
