@@ -46,3 +46,6 @@ https://www.youtube.com/watch?v=3Ar1ABlD_Vs
 
 ## Python Tutorial: Full Course for Beginners
 https://www.youtube.com/watch?v=XKHEtdqhLK8
+
+## Solving everyday problems with code
+https://misterhex.github.io/Devops-Assessment/
