@@ -146,11 +146,48 @@ Ansible:
 5. Which file is used for your default configuration in ansible?
 6. What are ansible best practices?
 
-Docker:
+Docker: is a software platform that allows you build , test, and deploy applications quickly.
 
  1. How you will build the your own docker images
+ R-
+Create a Docker image from an existing container: In this case, you start with an existing image,
+customize it with the changes you want, then build a new image from it. 
+Use a Dockerfile: In this case, you use a file of instructions — the Dockerfile — to specify the base image and the changes you want to make to it.
+ 
  2. How to find background process in docker containers
- 3. what is docker swarm & Compose
+  R- docker ps -a 
+  
+ 3. what is docker swarm
+   A docker swarm : is comprised of a group of physical or virtual machines operating in a cluster. When a machine joins the cluster,
+   it becomes a node in that swarm. The docker swarm function recognizes three different types of nodes, each with a different 
+   role within the docker swarm ecosystem.
+   
+   How Does Docker Swarm Work? : 
+   In Swarm, containers are launched using services. A service is a group of containers of the same 
+   image that enables the scaling of applications. Before you can deploy a service in Docker Swarm, you must have at least one
+   node deployed. 
+   There are two types of nodes in Docker Swarm:
+
+Manager node. Maintains cluster management tasks 
+Worker node. Receives and executes tasks from the manager node
+Consider a situation where a manager node sends out commands to different worker nodes.
+
+Features of Docker Swarm
+Some of the most essential features of Docker Swarm are:
+
+Decentralized access: Swarm makes it very easy for teams to access and manage the environment 
+High security: Any communication between the manager and client nodes within the Swarm is highly secure 
+Autoload balancing: There is autoload balancing within your environment, and you can script that into how you
+   write out and structure the Swarm environment 
+High scalability: Load balancing converts the Swarm environment into a highly scalable infrastructure
+Roll-back a task: Swarm allows you to roll back environments to previous safe environments
+
+In summary, the main difference between both platforms is that Docker Swarm is lightweight and more beginner-friendly, 
+while Kubernetes is heavy and complex. Developers looking for a middle ground might want to consider a new platform, K3s.
+K3s eliminates the complexity of Kubernetes and provides a lighter, more accessible experience.
+ 
+   Docker Compose :
+ 
 4. Which applications are running in your docker containers
 5. what is entry poind and command in in docker
 6. In docker-compose one of my instance is down then how will you troubleshoot
