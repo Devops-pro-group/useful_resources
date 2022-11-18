@@ -1,0 +1,50 @@
+
+My name is ......,  total of ..... years of industrial working experience in which .....years as a Devops Engineer  with Landmark technologies  
+which is an IT consulting firm where we develop, maintain, deploy and monitor applications for fintech
+e-commerce and some Healthcare customers.  As a Devops Eng i had to perform several roles and this roles range for onboarding new project
+where i create repository, create team's members, assign roles and responsability and also ensure that they are remain our git best practices.
+I had also been in charge of setting up, maintaining and monitoring our CI/CD pipeline. And in the CI/CD pipeline Jenkins is our main automation tool.
+So i intgrate Jenkins with github and automate the process using a trigger mechanism like webhook, pull scm, build periodically so whenever  developer 
+commit a new version of the code jenkins will pull the code and since the code is like a raw material, maven which is our build tool will execute clean package
+goals and we will obtain artifacts. I set up our code quality tool which is sonarqube and for each project we have benchmark that we follow, for example 
+sonarqube make sure that is no bugs, no vulnerablities. if the code pass our quality gate, we need to back up the artifact in our artifactory in Nexus for disaster recovery.
+Once that is done we complete our CI process, we then prepare for deployment. For Deployment we use Ansible which is our automation tool. so with the use of ansible playbook
+we have been able to dockerise the Artifacts to create images from the Dockerfile and push them in our docker registry and once that is done Ansible is also 
+responsible to send and API call to our k8s cluster and in the cluster the API server recieve the call, persist it in ETCD, the scheduler is trigger and check for available node 
+to carry out the job, also the controller manager will be alert then the kubelet in worker node will receive instruction from the master node and will pull down this build image in 
+our docker registry. once that is done the container runtime will run the container and application will go live. And in the same time we have deploy monitoring tool 
+prometheus and grafana, where prometheus is going to scrape the data using node exporter configure in each nodes  and grafana will use those data and we will able to have 
+a nice dashboard on which we can monitor the health of our cluster.
+
+
+I Lead the CI/CD team.It is a small team, we are resposible of the CI/CD tools.
+   i maintain jenkinsfile, update them when necessary :
+   i also help the infrastructure team to provision infrastructure. we provision the entire environment, we use terraform to automate that
+   i also accomplish project in configuration management writting playbook to maintain different projects.
+   I maintain servers to increase thier uptime
+ We deal with github installation, Jenkins integration with Maven which is our build tool since we
+ manage java based application ,Sonarqube as code quality and nexus as artifactory.
+ we are responsible of bulding, maintaining the service resposible that run the  automation.
+
+
+At Landmark i build a three tiers infrastructure for Security reason:
+Automate application and cloud infrastructure management using scripting and industry standard tooling, 
+achieving a high degree of configurability.
+
+- Design and build automation solutions
+- build and manage fast scalable workflows
+- Manage, monitor, and enforce security
+- Specify security requierements
+
+
+Support company security compliance efforts.
+  some best practices for security compliance:
+    - we Build a cybersecurity compliance plan : your IT, security, and compliance teams on the same page.
+    - we Make sure your teams are talking to each other: educate teams members, and train your IT and security team 
+        to be be up on the finer points of compliance and regulatory standards.
+    - we Use smart and automated tools: it helps to make business processes more efficient and more consistent as 
+        organisation scale. It can be difficult to maintain and keep track of our infrastructure.
+    - We Patch and update often:  A patching schedule is critical. To keep your systems up to date, and 
+        boost security,performance, and compliance.
+    - We need to Monitor continuously: Threats are constantly evolving, it is important to be aware of your 
+        infrastructure and the specific risks that affect your data and networks.
