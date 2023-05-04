@@ -52,3 +52,5 @@ https://www.youtube.com/watch?v=XKHEtdqhLK8
 
 ## Solving everyday problems with code
 https://misterhex.github.io/Devops-Assessment/
+
+# https://www.youtube.com/watch?v=PN3VqbZqmD8 ===> K8s workshop
