@@ -358,6 +358,7 @@ terraform --version
   for every terraform that includes resources mentioned  in the tf files.
 
 #9. what is the remote backend in terraform?
+I'm gonna do the presentation on Monday.
 
 
 
