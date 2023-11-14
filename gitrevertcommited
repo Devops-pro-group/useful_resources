@@ -1,0 +1,10 @@
+Git revert commited  
+To remove unneeded commit
+git log: copy the commit ID 
+git revert plus the commit ID
+git revert 85dbc290754b85021565b5640b22788cf357668f
+then use ":qa to exit the file
+then git push to merge the file to the original file,
+git push origin (branch name)
+
+Revert from remote
