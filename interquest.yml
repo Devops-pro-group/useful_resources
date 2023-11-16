@@ -80,7 +80,25 @@ Practice: 11/15/23
 
 #3- How have you made good informed decisions and how did you seek this information?
 
-  
+...As a DevOps engineer, making informed decisions is crucial, and I approach this by following a structured process. Firstly, 
+I ensure a comprehensive understanding of the situation by gathering relevant data. 
+This involves collaborating with different teams to gather insights into the current state of the system, identifying pain points, and understanding the overarching goals.
+
+To seek information, I rely on various sources such as system logs, monitoring tools like AWS CloudWatch, and collaboration with team members. 
+Analyzing metrics and logs helps me identify patterns, performance bottlenecks, and potential areas for improvement. Additionally, 
+I leverage incident reports and post-mortems to learn from past issues and ensure they don't recur.
+
+I also value feedback from team members and stakeholders. Regular communication allows me to understand their perspectives, concerns, and expectations. 
+This input is invaluable when making decisions that impact multiple facets of the development and operations lifecycle.
+
+Furthermore, I stay informed about industry best practices and emerging technologies. 
+Attending conferences, participating in webinars, and staying active in relevant online communities contribute to my knowledge base. 
+This continuous learning helps me make decisions that align with current industry standards and take advantage of new and improved tools and methodologies.
+
+In summary, my decision-making process involves thorough data gathering, collaboration with team members, learning from past experiences, and staying abreast of industry trends. 
+This holistic approach ensures that decisions are well-informed, and the chosen course of action aligns with the overall goals of the organization.".......
+
+Practice: 11/22/23
 
 
 How have you embraced and managed change?
