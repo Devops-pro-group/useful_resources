@@ -81,33 +81,96 @@ Practice: 11/15/23
 #3- How have you made good informed decisions and how did you seek this information?
 
 ...As a DevOps engineer, making informed decisions is crucial, and I approach this by following a structured process. Firstly, 
-I ensure a comprehensive understanding of the situation by gathering relevant data. 
-This involves collaborating with different teams to gather insights into the current state of the system, identifying pain points, and understanding the overarching goals.
+I ensure a comprehensive understanding of the situation by gathering relevant data. This involves collaborating with 
+ different teams to gather insights into the current state of the system, identifying pain points, and understanding the overarching goals.
 
 To seek information, I rely on various sources such as system logs, monitoring tools like AWS CloudWatch, and collaboration with team members. 
 Analyzing metrics and logs helps me identify patterns, performance bottlenecks, and potential areas for improvement. Additionally, 
 I leverage incident reports and post-mortems to learn from past issues and ensure they don't recur.
 
-I also value feedback from team members and stakeholders. Regular communication allows me to understand their perspectives, concerns, and expectations. 
-This input is invaluable when making decisions that impact multiple facets of the development and operations lifecycle.
+I also value feedback from team members and stakeholders. Regular communication allows me to understand their perspectives, concerns, 
+and expectations. This input is invaluable when making decisions that impact multiple facets of the development and operations lifecycle.
 
 Furthermore, I stay informed about industry best practices and emerging technologies. 
 Attending conferences, participating in webinars, and staying active in relevant online communities contribute to my knowledge base. 
 This continuous learning helps me make decisions that align with current industry standards and take advantage of new and improved tools and methodologies.
 
-In summary, my decision-making process involves thorough data gathering, collaboration with team members, learning from past experiences, and staying abreast of industry trends. 
-This holistic approach ensures that decisions are well-informed, and the chosen course of action aligns with the overall goals of the organization.".......
+In summary, my decision-making process involves thorough data gathering, collaboration with team members, learning from past 
+experiences, and staying abreast of industry trends. This holistic approach ensures that decisions are well-informed,
+and the chosen course of action aligns with the overall goals of the organization.".......
 
-Practice: 11/22/23
+Practice: 11/22/23 
+no work on this day
 
 
-How have you embraced and managed change?
+Practice: 12/04/23 
+
+#4- How have you embraced and managed change?
+
+"As a DevOps engineer, I believe in fostering a culture that views change as a catalyst for improvement and growth. 
+Leading by example, I emphasize adaptability, continuous learning, and transparent communication to build a positive
+ environment. Engaging key stakeholders early, managing resistance, and prioritizing change initiatives based on strategic 
+ goals are crucial aspects of my approach. I prioritize employee development, invest in training programs, and actively 
+ seek external perspectives to stay informed about industry trends. Lastly, I advocate for resilience, encourage innovation, 
+ and celebrate successes to reinforce a culture that thrives in the face of change."
+
+- Cultivate a Change-Positive Culture: 
+ 
+Foster a culture that views change as an opportunity for growth rather than a threat. 
+Encourage open communication and feedback to create a transparent and collaborative environment. 
+Lead by Example: 
+Demonstrate a positive attitude towards change. Your team will take cues from your behavior and approach. 
+Be adaptable and show a willingness to learn and evolve. 
+
+- Communicate Clearly and Frequently: 
+Clearly articulate the reasons behind the change, the expected benefits, and the impact on the organization. 
+Provide regular updates and address concerns to keep employees informed and engaged. 
+
+- Involve Key Stakeholders: 
+Engage key stakeholders early in the change process to gain their support and insights. 
+Create cross-functional teams to involve a diverse range of perspectives in the decision-making process. 
+
+- Manage Resistance: 
+Anticipate and address resistance. Understand the concerns and fears associated with change and work towards mitigating them. 
+Provide a platform for employees to express their concerns and suggestions. 
+
+- Invest in Employee Development: 
+Offer training and development programs to equip employees with the skills needed to navigate change successfully. 
+Recognize and reward adaptive behavior to reinforce a culture of continuous learning. 
+
+- Prioritize Change Initiatives: 
+Identify and prioritize change initiatives based on strategic goals and business priorities. 
+Avoid overwhelming the organization with too many simultaneous changes. 
+
+- Monitor Progress and Adjust: 
+Establish metrics to measure the success of change initiatives. 
+Regularly assess progress, identify areas that need adjustment, and be prepared to course-correct. 
+
+- Build a Resilient Organization: 
+Foster resilience within the organization to cope with ambiguity and uncertainty. 
+Develop contingency plans to address unforeseen challenges during the change process. 
+
+- Seek External Perspectives: 
+Stay informed about industry trends, technological advancements, and best practices. 
+Network with peers, attend conferences, and seek external perspectives to bring fresh insights to the organization. 
+
+- Encourage Innovation: 
+Foster a culture of innovation to encourage employees to generate new ideas and solutions. 
+Create mechanisms for experimenting with new approaches and technologies. 
+
+- Celebrate Success: 
+Acknowledge and celebrate milestones and successes achieved through the change process. 
+Reinforce a positive narrative around change and its impact on the organization. 
+By embracing these principles, senior executive managers can contribute to a culture of adaptability and innovation 
+within their organizations, positioning them to thrive in an ever-changing business landscape.
+
+
 How do you deal with stress and multiple competing priorities?
 Can you give examples of communicating effectively? NIKE culture is big on personal face to
 face communication, and having strong relationships with team members and
 internal/external customers.
 
-1. 
+
 2. Tell me your day to day activities.
 3. Tell me your roles and responsibilities.
 4. How many servers in your environment 
