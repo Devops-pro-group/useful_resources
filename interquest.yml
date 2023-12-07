@@ -170,19 +170,36 @@ Can you give examples of communicating effectively? NIKE culture is big on perso
 face communication, and having strong relationships with team members and
 internal/external customers.
 
+12/06/2023
 
-2. Tell me your day to day activities.
-3. Tell me your roles and responsibilities.
-4. How many servers in your environment 
-5. How many of your team size
-6. what is your role means Designation
-7. how along you are working on devops
-8. How much rating you wll give On DevOps, AWS
-9. Which scripting Language you use for automation either shell or python
-10. How much rationg you will give on scripting
-11. Which versions using in your environment
-12. Which ticketing tool you are using in you environment
-13. which versions you are using in devops
+# 5. Tell me your day to day activities.
+As a senior DevOps engineer, my daily activities include automating infrastructure, 
+managing CI/CD pipelines, ensuring system reliability through monitoring and logging, 
+implementing containerization with Kubernetes, prioritizing security practices, handling incidents, 
+optimizing resource usage, and fostering collaboration among development and operations teams.
+I also contribute to documentation, stay updated on industry trends, and provide mentorship to junior team members.
+
+# 6. Tell me your roles and responsibilities.
+My primary role as a DevOps engineer involves managing the entire lifecycle of software from design to deployment.
+ I am responsible for creating and maintain
+ ing infrastructure as code (IAC) templates, managing CI/CD pipelines using Jenkins, promoting agile principles,
+ managing the infrastructure as code (IAC) repository, managing the deployment pipeline, implementing
+ containerized applications using Kubernetes, setting up monitoring tools, developing custom scripts,
+ writing documentation, providing technical guidance, and collaborating with cross-functional teams.
+
+# 7. How many servers in your environment 
+Currently, we have approximately 50 servers running various services across different regions.
+
+# 8. How many of your team size
+
+# 6. what is your role means Designation
+# 7. how along you are working on devops
+# 8. How much rating you wll give On DevOps, AWS
+# 9. Which scripting Language you use for automation either shell or python
+# 10. How much rationg you will give on scripting
+# 11. Which versions using in your environment
+# 12. Which ticketing tool you are using in you environment
+# 13. which versions you are using in devops
 
 
 Git: 
